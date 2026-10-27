@@ -1,0 +1,48 @@
+# --- Editor / OS ---
+# VSCode local history
+*.history
+*.vscode/
+# OS thumbnails / metadata
+Thumbs.db
+desktop.ini
+
+# --- KiCad ---
+
+*-backups/
+*.lck
+~*.lck
+*.kicad_prl
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.kicad_pro-bak
+*.sch-bak
+*.brd-bak
+*.pcb-bak
+*-save.tmp
+*-save.kicad_pcb
+*-save.kicad_sch
+*.tmp
+fp-info-cache
+*-cache.lib
+*-rescue.lib
+*.net
+*.net-cmp
+*.gbr
+*.gbrjob
+*.ger
+*.drl
+*.nc1
+*.gko
+*.gbl
+*.gtl
+*.gbo
+*.gto
+*.gbs
+*.gts
+*.gm1
+*.gml
+*.oln
+*.pos
+*.d356
+*.rep
+*.csv
